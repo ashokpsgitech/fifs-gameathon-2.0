@@ -1,0 +1,264 @@
+Match Number,Team 1,Team 2,Credits,Player Type,Player Name,Team,IsPlaying,lineupOrder
+,,,6.5,ALL,Aaron Hardie,PBKS,NOT_PLAYING,0.0
+,,,6.5,BAT,Abdul Samad,LSG,PLAYING,7.0
+,,,5.0,BOWL,Abhinandan Singh,RCB,NOT_PLAYING,0.0
+,,,6.5,BAT,Abhinav Manohar,SRH,PLAYING,7.0
+,,,8.5,ALL,Abhishek Sharma,SRH,PLAYING,1.0
+,,,7.0,WK,Abishek Porel,DC,X_FACTOR_SUBSTITUTE,12.0
+,,,7.5,BOWL,Adam Zampa,SRH,NOT_PLAYING,0.0
+,,,7.5,ALL,Aiden Markram,LSG,PLAYING,2.0
+,,,6.0,ALL,Ajay Mandal,DC,NOT_PLAYING,0.0
+,,,8.0,BAT,Ajinkya Rahane,KKR,PLAYING,4.0
+,,,7.0,BOWL,Akash Deep,LSG,PLAYING,10.0
+,,,7.0,BOWL,Akash Madhwal,RR,X_FACTOR_SUBSTITUTE,13.0
+,,,6.0,BOWL,Akash Singh,LSG,NOT_PLAYING,0.0
+,,,6.5,All Rounder,Anand-Singh,PNS,PLAYING,3.0
+,,,8.0,Batsmen,Andre McIntosh McCarthy,PNS,NOT_PLAYING,0.0
+,,,8.0,ALL,Andre Russell,KKR,PLAYING,6.0
+,,,5.5,BAT,Andre Siddharth,CHE,NOT_PLAYING,0.0
+,,,7.0,BAT,Angkrish Raghuvanshi,KKR,X_FACTOR_SUBSTITUTE,13.0
+,,,7.0,BAT,Aniket Verma,SRH,PLAYING,6.0
+,,,7.5,BOWL,Anrich Nortje,KKR,X_FACTOR_SUBSTITUTE,12.0
+,,,6.0,BOWL,Anshul Kamboj,CHE,NOT_PLAYING,0.0
+,,,6.5,WK,Anuj Rawat,GT,X_FACTOR_SUBSTITUTE,14.0
+,,,6.0,ALL,Anukul Sudhakar Roy,KKR,X_FACTOR_SUBSTITUTE,14.0
+,,,5.0,BOWL,Arjun Tendulkar,MI,NOT_PLAYING,0.0
+,,,6.5,ALL,Arshad Khan,GT,X_FACTOR_SUBSTITUTE,13.0
+,,,8.5,BOWL,Arshdeep Singh,PBKS,PLAYING,10.0
+,,,6.0,ALL,Arshin Kulkarni,LSG,NOT_PLAYING,0.0
+,,,5.5,WK,Aryan Juyal,LSG,NOT_PLAYING,0.0
+,,,5.0,BOWL,Ashok Sharma,RR,NOT_PLAYING,0.0
+,,,7.5,BAT,Ashutosh Sharma,DC,PLAYING,7.0
+,,,5.5,BOWL,Ashwani Kumar,MI,X_FACTOR_SUBSTITUTE,13.0
+,,,6.0,BAT,Atharva Taide,SRH,NOT_PLAYING,0.0
+,,,8.0,BOWL,Avesh Khan,LSG,PLAYING,9.0
+,,,8.0,ALL,Axar Patel,DC,PLAYING,5.0
+,,,7.0,All Rounder,Ayan Khan,PNS,PLAYING,5.0
+,,,7.0,BAT,Ayush Badoni,LSG,PLAYING,5.0
+,,,7.5,ALL,Azmatullah Omarzai,PBKS,PLAYING,8.0
+,,,6.0,BAT,Bevon Jacobs,MI,NOT_PLAYING,0.0
+,,,8.0,BOWL,Bhuvneshwar Kumar,RCB,PLAYING,9.0
+,,,7.5,Wicket Keeper,Brendan Taylor,DG,PLAYING,5.0
+,,,6.0,BOWL,Chetan Sakariya,KKR,NOT_PLAYING,0.0
+,,,6.0,ALL,Corbin Bosch,MI,X_FACTOR_SUBSTITUTE,13.0
+,,,6.5,Batsmen,Danza Hyatt,PNS,NOT_PLAYING,0.0
+,,,6.5,BOWL,Darshan Nalkande,DC,X_FACTOR_SUBSTITUTE,16.0
+,,,7.5,Bowlers,Dave Mohammed,PNS,PLAYING,9.0
+,,,8.0,BAT,David Miller,LSG,PLAYING,6.0
+,,,7.5,BOWL,Deepak Chahar,MI,PLAYING,8.0
+,,,7.0,BAT,Deepak Hooda,CHE,PLAYING,4.0
+,,,6.5,All Rounder,Deepansh Kumar,DG,NOT_PLAYING,0.0
+,,,7.0,BAT,Devdutt Padikkal,RCB,PLAYING,3.0
+,,,8.0,WK,Devon Conway,CHE,NOT_PLAYING,0.0
+,,,7.5,WK,Dhruv Jurel,RR,PLAYING,5.0
+,,,7.0,BOWL,Digvesh Singh,LSG,PLAYING,11.0
+,,,7.0,ALL,Donovan Ferreira,DC,X_FACTOR_SUBSTITUTE,14.0
+,,,7.0,BOWL,Dushmantha Chameera,DC,NOT_PLAYING,0.0
+,,,6.0,BOWL,Eshan Malinga,SRH,NOT_PLAYING,0.0
+,,,8.5,BAT,Faf du Plessis,DC,PLAYING,1.0
+,,,7.0,BOWL,FazalHaq Farooqi,RR,X_FACTOR_SUBSTITUTE,14.0
+,,,7.0,BOWL,Gerald Coetzee,GT,NOT_PLAYING,0.0
+,,,8.5,ALL,Glenn Maxwell,PBKS,PLAYING,4.0
+,,,7.5,BAT,Glenn Phillips,GT,X_FACTOR_SUBSTITUTE,13.0
+,,,6.0,BOWL,Gurjapneet Singh,CHE,NOT_PLAYING,0.0
+,,,5.5,BOWL,Gurnoor Brar Singh,GT,NOT_PLAYING,0.0
+,,,9.0,ALL,Hardik Pandya,MI,NOT_PLAYING,0.0
+,,,5.0,BAT,Harnoor Singh Pannu,PBKS,NOT_PLAYING,0.0
+,,,6.5,BOWL,Harpreet Brar,PBKS,X_FACTOR_SUBSTITUTE,15.0
+,,,8.0,BOWL,Harshal Patel,SRH,PLAYING,10.0
+,,,8.5,BOWL,Harshit Rana,KKR,PLAYING,10.0
+,,,9.0,WK,Heinrich Klaasen,SRH,PLAYING,5.0
+,,,6.0,All Rounder,Himanshu Bishnoi,PNS,PLAYING,6.0
+,,,5.5,BAT,Himmat Singh,LSG,NOT_PLAYING,0.0
+,,,7.5,All Rounder,Iqbal Abdulla,DG,PLAYING,7.0
+,,,8.0,WK,Ishan Kishan,SRH,PLAYING,3.0
+,,,7.5,BOWL,Ishant Sharma,GT,X_FACTOR_SUBSTITUTE,14.0
+,,,8.5,Bowlers,Ishwar Pandey,PNS,PLAYING,10.0
+,,,8.0,All Rounder,Isuru Udana,DG,PLAYING,8.0
+,,,6.5,BAT,Jacob Bethell,RCB,X_FACTOR_SUBSTITUTE,15.0
+,,,7.5,BAT,Jake Fraser-McGurk,DC,PLAYING,1.0
+,,,6.5,ALL,Jamie Overton,CHE,X_FACTOR_SUBSTITUTE,15.0
+,,,9.0,BOWL,Jasprit Bumrah,MI,NOT_PLAYING,0.0
+,,,8.0,All Rounder,Javon Searles,PNS,PLAYING,7.0
+,,,6.5,BOWL,Jayant Yadav,GT,NOT_PLAYING,0.0
+,,,7.0,BOWL,Jaydev Unadkat,SRH,NOT_PLAYING,0.0
+,,,8.5,Batsmen,Jesse Ryder,PNS,PLAYING,2.0
+,,,7.5,WK,Jitesh Sharma,RCB,PLAYING,6.0
+,,,8.0,BOWL,Jofra Archer,RR,PLAYING,8.0
+,,,9.0,Bowlers,Jon-Russ Jaggesar,PNS,PLAYING,8.0
+,,,9.0,WK,Jos Buttler,GT,PLAYING,3.0
+,,,8.5,BOWL,Josh Hazlewood,RCB,PLAYING,10.0
+,,,7.0,WK,Josh Inglis,PBKS,NOT_PLAYING,0.0
+,,,8.0,ALL,K Nitish Reddy,SRH,PLAYING,4.0
+,,,5.0,WK,KL Shrijith,MI,NOT_PLAYING,0.0
+,,,7.5,BOWL,Kagiso Rabada,GT,NOT_PLAYING,0.0
+,,,7.0,ALL,Kamindu Mendis,SRH,NOT_PLAYING,0.0
+,,,5.5,BOWL,Kamlesh Nagarkoti,CHE,X_FACTOR_SUBSTITUTE,13.0
+,,,6.0,ALL,Karim Janat,GT,NOT_PLAYING,0.0
+,,,6.5,BOWL,Karn Sharma,MI,X_FACTOR_SUBSTITUTE,16.0
+,,,7.0,BAT,Karun Nair,DC,X_FACTOR_SUBSTITUTE,14.0
+,,,9.0,Wicket Keeper,Kennar Lewis,PNS,NOT_PLAYING,0.0
+,,,8.0,Batsmen,Kevin O'brien,DG,PLAYING,2.0
+,,,7.5,BOWL,Khaleel Ahmed,CHE,PLAYING,11.0
+,,,6.5,Batsmen,Kithuruwan Vithanage,DG,PLAYING,4.0
+,,,8.0,ALL,Krunal Pandya,RCB,PLAYING,8.0
+,,,6.0,BOWL,Kuldeep Sen,PBKS,NOT_PLAYING,0.0
+,,,8.5,BOWL,Kuldeep Yadav,DC,PLAYING,9.0
+,,,6.0,BOWL,Kulwant Khejroliya,GT,NOT_PLAYING,0.0
+,,,6.0,BOWL,Kumar Kartikeya,RR,X_FACTOR_SUBSTITUTE,15.0
+,,,5.5,WK,Kumar Kushagra,GT,NOT_PLAYING,0.0
+,,,5.0,WK,Kunal Singh Rathore,RR,X_FACTOR_SUBSTITUTE,12.0
+,,,6.0,BOWL,Kwena Maphaka,RR,X_FACTOR_SUBSTITUTE,16.0
+,,,8.0,ALL,Liam Livingstone,RCB,PLAYING,5.0
+,,,7.5,BOWL,Lockie Ferguson,PBKS,NOT_PLAYING,0.0
+,,,9.0,WK,Lokesh Rahul,DC,PLAYING,2.0
+,,,6.5,Bowlers,Luke Fletcher,DG,PLAYING,9.0
+,,,7.0,BOWL,Lungi Ngidi,RCB,NOT_PLAYING,0.0
+,,,5.5,WK,Luvnith Sisodia,KKR,X_FACTOR_SUBSTITUTE,16.0
+,,,7.0,WK,MS Dhoni,CHE,PLAYING,7.0
+,,,5.0,ALL,Madhav Tiwari,DC,NOT_PLAYING,0.0
+,,,7.5,BOWL,Maheesh Theekshana,RR,PLAYING,9.0
+,,,6.5,BAT,Mahipal Lomror,GT,X_FACTOR_SUBSTITUTE,15.0
+,,,5.5,ALL,Manav Suthar,GT,NOT_PLAYING,0.0
+,,,6.0,BOWL,Manimaran Siddharth,LSG,NOT_PLAYING,0.0
+,,,6.5,Wicket Keeper,Maninder Singh,DG,NOT_PLAYING,0.0
+,,,7.0,BAT,Manish Pandey,KKR,X_FACTOR_SUBSTITUTE,12.0
+,,,6.0,ALL,Manoj Bhandage,RCB,X_FACTOR_SUBSTITUTE,14.0
+,,,5.5,ALL,Manvanth Kumar L,DC,NOT_PLAYING,0.0
+,,,8.0,ALL,Marco Jansen,PBKS,PLAYING,8.0
+,,,8.0,ALL,Marcus Stoinis,PBKS,PLAYING,5.0
+,,,8.5,BOWL,Matheesha Pathirana,CHE,PLAYING,10.0
+,,,6.5,BAT,Matthew Breetzke,LSG,NOT_PLAYING,0.0
+,,,6.0,BOWL,Mayank Markande,KKR,NOT_PLAYING,0.0
+,,,6.5,BOWL,Mayank Yadav,LSG,NOT_PLAYING,0.0
+,,,8.5,BAT,Mitchell Marsh,LSG,NOT_PLAYING,0.0
+,,,7.5,ALL,Mitchell Santner,MI,PLAYING,7.0
+,,,9.0,BOWL,Mitchell Starc,DC,PLAYING,8.0
+,,,7.0,ALL,Moeen Ali,KKR,NOT_PLAYING,0.0
+,,,8.5,BOWL,Mohammed Shami,SRH,PLAYING,9.0
+,,,8.0,BOWL,Mohammed Siraj,GT,PLAYING,9.0
+,,,6.0,ALL,Mohit Rathee,RCB,NOT_PLAYING,0.0
+,,,7.0,BOWL,Mohit Sharma,DC,PLAYING,10.0
+,,,7.0,Bowlers,Mohmad Ajrudeen,PNS,NOT_PLAYING,0.0
+,,,7.0,BOWL,Mohsin Khan,LSG,NOT_PLAYING,0.0
+,,,7.0,BOWL,Mujeeb-ur-Rahman,MI,NOT_PLAYING,0.0
+,,,6.5,BOWL,Mukesh Choudhary,CHE,NOT_PLAYING,0.0
+,,,7.0,BOWL,Mukesh Kumar,DC,PLAYING,11.0
+,,,6.0,ALL,Musheer Khan,PBKS,NOT_PLAYING,0.0
+,,,7.5,BAT,Naman Dhir,MI,PLAYING,6.0
+,,,9.0,Batsmen,Narsingh Deonarine,PNS,PLAYING,4.0
+,,,7.0,BOWL,Nathan Ellis,CHE,X_FACTOR_SUBSTITUTE,16.0
+,,,7.5,BAT,Nehal Wadhera,PBKS,PLAYING,5.0
+,,,8.5,WK,Nicholas Pooran,LSG,PLAYING,2.0
+,,,7.0,Bowlers,Nicholson Gordon,PNS,PLAYING,11.0
+,,,6.0,ALL,Nishant Sindhu,GT,NOT_PLAYING,0.0
+,,,7.5,ALL,Nitish Rana,RR,PLAYING,3.0
+,,,7.5,BOWL,Noor Ahmad,CHE,PLAYING,9.0
+,,,7.0,BOWL,Nuwan Thushara,RCB,NOT_PLAYING,0.0
+,,,8.5,BOWL,Pat Cummins,SRH,PLAYING,8.0
+,,,8.5,WK,Philip Salt,RCB,PLAYING,2.0
+,,,7.5,WK,Prabhsimran Singh,PBKS,PLAYING,2.0
+,,,7.5,BOWL,Prasidh Krishna,GT,PLAYING,10.0
+,,,6.0,BOWL,Pravin Dubey,PBKS,X_FACTOR_SUBSTITUTE,12.0
+,,,6.0,BOWL,Prince Yadav,LSG,X_FACTOR_SUBSTITUTE,13.0
+,,,8.0,BAT,Priyansh Arya,PBKS,PLAYING,1.0
+,,,5.0,BAT,Pyla Avinash,PBKS,NOT_PLAYING,0.0
+,,,8.0,WK,Quinton de Kock,KKR,PLAYING,1.0
+,,,8.0,BAT,Rachin Ravindra,CHE,PLAYING,1.0
+,,,7.5,WK,Rahmanullah Gurbaz,KKR,NOT_PLAYING,0.0
+,,,6.5,BOWL,Rahul Chahar,SRH,NOT_PLAYING,0.0
+,,,6.0,Wicket Keeper,Rahul Mahesh Yadav,DG,PLAYING,3.0
+,,,7.0,ALL,Rahul Tewatia,GT,PLAYING,4.0
+,,,7.5,BAT,Rahul Tripathi,CHE,NOT_PLAYING,0.0
+,,,5.5,BAT,Raj Angad Bawa,MI,X_FACTOR_SUBSTITUTE,14.0
+,,,8.0,BAT,Rajat Patidar,RCB,PLAYING,3.0
+,,,5.5,BOWL,Rajvardhan Hangargekar,LSG,X_FACTOR_SUBSTITUTE,16.0
+,,,5.5,ALL,Ramakrishna Ghosh,CHE,NOT_PLAYING,0.0
+,,,7.0,ALL,Ramandeep Singh,KKR,PLAYING,9.0
+,,,8.0,BOWL,Rashid-Khan,GT,PLAYING,9.0
+,,,6.5,BOWL,Rasikh Salam,RCB,X_FACTOR_SUBSTITUTE,13.0
+,,,7.0,Bowlers,Ravi Balara,DG,NOT_PLAYING,0.0
+,,,8.0,BOWL,Ravi Bishnoi,LSG,PLAYING,9.0
+,,,8.0,ALL,Ravichandran Ashwin,CHE,PLAYING,8.0
+,,,8.5,ALL,Ravindra Jadeja,CHE,PLAYING,5.0
+,,,7.5,BOWL,Ravisrinivasan Sai Kishore,GT,PLAYING,8.0
+,,,6.0,BOWL,Reece Topley,MI,NOT_PLAYING,0.0
+,,,7.5,Batsmen,Richard Levi,DG,PLAYING,1.0
+,,,7.5,BAT,Rinku Singh,KKR,PLAYING,4.0
+,,,9.0,WK,Rishabh Pant,LSG,PLAYING,1.0
+,,,8.0,ALL,Riyan Parag,RR,PLAYING,4.0
+,,,9.0,All Rounder,Robert Frylinck,PNS,NOT_PLAYING,0.0
+,,,5.5,WK,Robin Minz,MI,PLAYING,7.0
+,,,8.0,BAT,Rohit Sharma,MI,X_FACTOR_SUBSTITUTE,12.0
+,,,7.0,ALL,Romario Shepherd,RCB,NOT_PLAYING,0.0
+,,,7.0,BAT,Rovman Powell,KKR,NOT_PLAYING,0.0
+,,,9.0,BAT,Ruturaj Gaikwad,CHE,PLAYING,3.0
+,,,7.5,WK,Ryan Rickelton,MI,PLAYING,2.0
+,,,5.5,BAT,Sachin Baby,SRH,X_FACTOR_SUBSTITUTE,13.0
+,,,8.5,BAT,Sai Sudharsan,GT,PLAYING,2.0
+,,,6.5,ALL,Sam Curran,CHE,X_FACTOR_SUBSTITUTE,15.0
+,,,6.5,BAT,Sameer Rizvi,DC,PLAYING,4.0
+,,,7.5,BOWL,Sandeep Sharma,RR,PLAYING,10.0
+,,,9.0,WK,Sanju Samson,RR,PLAYING,2.0
+,,,6.0,BOWL,Satyanarayana Raju,MI,PLAYING,11.0
+,,,7.0,All Rounder,Seekkuge Prasanna,DG,PLAYING,6.0
+,,,7.0,ALL,Shahbaz Ahmed,LSG,X_FACTOR_SUBSTITUTE,12.0
+,,,7.5,ALL,Shahrukh Khan,GT,PLAYING,5.0
+,,,5.0,BAT,Shaik Rasheed,CHE,X_FACTOR_SUBSTITUTE,15.0
+,,,6.5,BOWL,Shamar Joseph,LSG,NOT_PLAYING,0.0
+,,,7.0,BOWL,Shardul Thakur,LSG,PLAYING,10.0
+,,,7.5,BAT,Shashank Singh,PBKS,PLAYING,4.0
+,,,7.5,BAT,Sherfane Rutherford,GT,PLAYING,4.0
+,,,7.5,BAT,Shimron Hetmyer,RR,PLAYING,6.0
+,,,6.0,Batsmen,Shivakant Shukla,PNS,NOT_PLAYING,0.0
+,,,8.0,BAT,Shivam Dube,CHE,X_FACTOR_SUBSTITUTE,12.0
+,,,6.0,BOWL,Shreyas Gopal,CHE,NOT_PLAYING,0.0
+,,,8.5,BAT,Shreyas Iyer,PBKS,PLAYING,1.0
+,,,5.5,BAT,Shubham Dubey,RR,X_FACTOR_SUBSTITUTE,13.0
+,,,9.0,BAT,Shubman Gill,GT,PLAYING,1.0
+,,,6.5,Bowlers,Siddharth Trivedi,DG,PLAYING,10.0
+,,,6.0,BOWL,Simarjeet- Singh,SRH,PLAYING,9.0
+,,,5.0,BAT,Smaran-R,SRH,NOT_PLAYING,0.0
+,,,6.5,BOWL,Spencer Johnson,KKR,PLAYING,9.0
+,,,9.0,ALL,Sunil Narine,KKR,NOT_PLAYING,0.0
+,,,9.0,BAT,Suryakumar Yadav,MI,PLAYING,4.0
+,,,5.5,ALL,Suryansh Shedge,PBKS,PLAYING,6.0
+,,,6.0,BOWL,Suyash Sharma,RCB,X_FACTOR_SUBSTITUTE,12.0
+,,,7.0,ALL,Swapnil Singh,RCB,X_FACTOR_SUBSTITUTE,16.0
+,,,5.5,BAT,Swastik Chikara,RCB,NOT_PLAYING,0.0
+,,,6.5,BOWL,T Natarajan,DC,NOT_PLAYING,0.0
+,,,8.0,BAT,Tilak Varma,MI,PLAYING,4.0
+,,,7.5,BAT,Tim David,RCB,PLAYING,7.0
+,,,9.0,BAT,Travis Head,SRH,PLAYING,2.0
+,,,8.5,BOWL,Trent Boult,MI,PLAYING,8.0
+,,,5.5,BOWL,Tripurana Vijay,DC,NOT_PLAYING,0.0
+,,,8.0,BAT,Tristan Stubbs,DC,PLAYING,6.0
+,,,7.5,BOWL,Tushar Deshpande,RR,PLAYING,10.0
+,,,6.0,All Rounder,Udit Mohan,DG,NOT_PLAYING,0.0
+,,,6.0,BOWL,Umran Malik,KKR,NOT_PLAYING,0.0
+,,,7.0,BOWL,Vaibhav Arora,KKR,PLAYING,8.0
+,,,5.0,BAT,Vaibhav Suryavanshi,RR,NOT_PLAYING,0.0
+,,,5.0,WK,Vansh Bedi,CHE,NOT_PLAYING,0.0
+,,,9.0,BOWL,Varun Chakravarthy,KKR,PLAYING,11.0
+,,,8.0,BAT,Venkatesh Iyer,KKR,PLAYING,5.0
+,,,7.0,BOWL,Vignesh Puthur,MI,NOT_PLAYING,0.0
+,,,6.5,BAT,Vijay Shankar,CHE,X_FACTOR_SUBSTITUTE,14.0
+,,,6.5,Bowlers,Vikas Tokas,DG,PLAYING,11.0
+,,,6.5,ALL,Vipraj Nigam,DC,PLAYING,7.0
+,,,9.0,BAT,Virat Kohli,RCB,PLAYING,1.0
+,,,6.5,WK,Vishnu Vinod,PBKS,NOT_PLAYING,0.0
+,,,7.0,BOWL,Vyshak Vijaykumar,PBKS,X_FACTOR_SUBSTITUTE,16.0
+,,,8.0,ALL,Wanindu Hasaranga,RR,NOT_PLAYING,0.0
+,,,7.0,ALL,Washington Sundar,GT,PLAYING,7.0
+,,,7.0,ALL,Wiaan Mulder,SRH,X_FACTOR_SUBSTITUTE,16.0
+,,,7.0,ALL,Will Jacks,MI,PLAYING,2.0
+,,,7.5,Wicket Keeper,William Perkins,PNS,PLAYING,1.0
+,,,6.5,BOWL,Xavier Bartlett,PBKS,NOT_PLAYING,0.0
+,,,7.0,BOWL,Yash Dayal,RCB,PLAYING,11.0
+,,,6.5,BOWL,Yash Thakur,PBKS,NOT_PLAYING,0.0
+,,,8.5,BAT,Yashasvi Jaiswal,RR,PLAYING,1.0
+,,,6.5,ALL,Yudhvir Singh Charak,RR,X_FACTOR_SUBSTITUTE,13.0
+,,,5.0,ALL,Yuvraj Chaudhary,LSG,NOT_PLAYING,0.0
+,,,7.5,BOWL,Yuzvendra Chahal,PBKS,PLAYING,11.0
+,,,6.0,BOWL,Zeeshan Ansari,SRH,PLAYING,11.0
+1.0,KKR,RCB,,,,,,
